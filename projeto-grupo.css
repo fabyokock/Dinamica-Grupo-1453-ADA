@@ -139,7 +139,7 @@ footer {
 
   font-family: Arial, Helvetica, sans-serif;
 
-  color: #666;
+  color: #d44d51;
 }
 
 .botao-conteudo {
@@ -200,4 +200,51 @@ footer {
   align-items: center;
 
   gap: 20px;
+}
+
+/* MEDIA QUERIES */
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+  }
+
+  .cabecalho-direita {
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+  }
+
+  main {
+    padding: 50px 20px;
+  }
+
+  .titulo-principal {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .descricao {
+    text-align: center;
+  }
+
+  .botao-conteudo {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  footer {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .footer-centro,
+  .footer-direita,
+  .footer-direita img,
+  .footer-direita button {
+    margin-top: 15px;
+  }
 }
