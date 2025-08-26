@@ -36,8 +36,6 @@ header {
 
 main {
   padding: 20px 300px;
-
-  border: 2px solid green;
 }
 
 footer {
@@ -122,8 +120,6 @@ footer {
   padding: 0px 30px;
 
   border-radius: 10px;
-
-  border: 2px solid yellow;
 }
 
 .titulo-principal {
@@ -499,12 +495,9 @@ footer {
     gap: 0;
 
     margin: 0;
-
-    border: 2px solid yellow;
   }
 
   .footer-direita img {
-    border: 2px solid green;
   }
 
   .botao-compreAgora {
