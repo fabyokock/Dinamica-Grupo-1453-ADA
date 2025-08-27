@@ -543,21 +543,21 @@ footer {
 
 /* 320px — 480px: dispositivos móveis */
 
-@media (min-width: 320px) and (max-width: 480px) {
-  /* Seu código aqui.. */
-}
+/* @media (min-width: 320px) and (max-width: 480px) { */
+/* Seu código aqui.. */
+/* } */
 
 /* 481px — 768px: iPads, tablets */
 
-@media (min-width: 481px) and (max-width: 768px) {
-  /* Seu código aqui.. */
-}
+/* @media (min-width: 481px) and (max-width: 768px) {
+  Seu código aqui..
+} */
 
 /* 769px — 1024px: telas pequenas, laptops */
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  /* Seu código aqui.. */
-}
+/* @media (min-width: 769px) and (max-width: 1024px) {
+  Seu código aqui..
+} */
 
 /*
 
