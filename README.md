@@ -5,3 +5,7 @@ Turma 1453 ADA TECH - Aulas ao vivo do curso Front End Estático (HTML e CSS). P
 ## Todos os projetos realizados estão em:
 
 https://fabyokock.github.io/turma-1453-ADA/
+
+Aulas ao vivo - Turma 1453
+
+Agosto e Setembro 2025
